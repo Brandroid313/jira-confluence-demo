@@ -1,3 +1,3 @@
 # jira-confluence-demo
 demo for work
-a change in the repo
+a new change in the repo
